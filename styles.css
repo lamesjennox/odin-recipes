@@ -1,0 +1,36 @@
+img {
+    height: auto;
+    width: 700px;
+}
+
+body {
+    background-color: rgb(37, 35, 35);
+}
+
+h1 {
+    font-family: cursive, Verdana, Tahoma, sans-serif;
+    color: rgb(9, 98, 78);
+    font-size: 38px;
+}
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood;
+    font-weight: 600;
+}
+
+p,
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+p {
+    color: cadetblue;
+    text-align: right;
+}
+
+h3 {
+    color: rgb(158, 28, 28);
+    text-align: center;
+}
